@@ -1,0 +1,39 @@
+name: Booooooh
+main: fr.cyberdodo.booooooh.BoooooohPlugin
+version: 1.0.0
+api-version: 1.21
+
+commands:
+  scaryarmorstand:
+    description: Fait apparaître un armor stand effrayant qui suit le joueur
+    usage: /scaryarmorstand
+  creeperspawn:
+    description: Fait apparaître 10 creepers autour du joueur qui n'infligent aucun dégât.
+    usage: /creeperspawn
+  scarysound:
+    description: Joue un son effrayant
+    usage: /scarysound
+  globalscarysound:
+    description: Joue un son effrayant à tous les joueurs
+    usage: /globalscarysound
+  footstepsaround:
+    description: Joue des pas autour du joueur pour simuler une présence invisible
+    usage: /footstepsaround
+  simulateattack:
+    description: Simule une attaque sur le joueur
+    usage: /simulateattack
+  putpumpkin:
+    description: Met une citrouille sur la tête du joueur
+    usage: /putpumpkin
+  skyfall:
+    description: Fait tomber des blocs de sable sur le joueur
+    usage: /skyfall
+  stalkingzombie:
+    description: Fait apparaître un zombie qui suit le joueur
+    usage: /stalkingzombie
+  screamerdoor:
+    description: Fait apparaître une porte qui crie
+    usage: /screamerdoor
+  halloweenshow:
+    description: Fait apparaître un show endiablé
+    usage: /halloweenshow
